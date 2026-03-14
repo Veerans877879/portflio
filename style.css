@@ -48,12 +48,13 @@ body {
 /* Hero – subtle dark with soft gradient */
 /* Hero – light background, text clear ah theriyanum */
 .hero {
-  padding: 70px 20px 70px;
+  padding: 50px 16px 40px;
   min-height: 60vh;
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 
 .hero-content {
   max-width: 1000px;
@@ -309,15 +310,16 @@ body {
   }
 
   .hero {
-    padding: 40px 18px 40px;
+    padding: 30px 16px 30px;
   }
 
   .hero-content {
     flex-direction: column-reverse;
+    gap: 20px;
   }
 
   .section {
-    padding: 30px 18px;
+    padding: 24px 16px;
   }
 
   .hero h1 {
