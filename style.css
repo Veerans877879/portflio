@@ -51,7 +51,7 @@ body {
 /* Hero – light background, text clear ah theriyanum */
 .hero {
   padding: 50px 16px 40px;
-  min-height: 40vh;
+  min-height: 20vh;
   display: flex;
   justify-content: center;
   align-items: center;
